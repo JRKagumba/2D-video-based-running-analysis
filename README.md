@@ -51,4 +51,20 @@ https://user-images.githubusercontent.com/63820705/188669073-5d7fc0c4-9dbb-4fca-
 
 ## Milestones
 
+### :white_check_mark: Phase 1 :
+Develop pre-processing pipeline and model that can take a video of the correct format as input and output a gait report
+
+### :white_square_button: Phase 2 :
+Create a web app/dashboard that allows users to interact with videos and data
+
+### :white_square_button: Phase 3 : 
+Configure a mobile application to allow for real-time gait event detection and analysis
+
+
 ## Reference
+
+- [Computer Vision and Gait Analysis - Paper #1](https://www.researchgate.net/publication/351176461_Human_Gait_Analysis_Using_Machine_Learning_A_Review)
+- [Computer Vision and Gait Analysis - Paper #2](https://dl.acm.org/doi/10.1145/3474121)
+- [Computer Vision and Gait Analysis - Blog Post](https://towardsdatascience.com/diy-stride-analysis-driven-by-machine-learning-to-compare-the-next-generation-of-running-shoes-1a33ddfcf706)
+- [Motion Capture Based Gait Analysis - Paper #1](https://pubmed.ncbi.nlm.nih.gov/31900980/)
+- [Motion Capture Based Gait Analysis - Paper #2](https://pubmed.ncbi.nlm.nih.gov/29920155/)
