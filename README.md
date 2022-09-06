@@ -30,6 +30,9 @@ The project used publicly available NFL combine videos of athletes performing th
 - Runningbacks
 - Wide Receivers
 
+Sample Video:
+https://user-images.githubusercontent.com/63820705/188669073-5d7fc0c4-9dbb-4fca-b9dc-9e0a12fd2dc6.mp4
+
 ## Practical Applications
 
 #### Clinical
