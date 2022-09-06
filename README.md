@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to create an event detection algorithm that does not require conventional methods such as motion capture or force plates and is applicable to a wide range of athletes and gait patterns. The algorithm combines elements of coordinate-based, velocity-based, and probabilistic approaches through a data-driven
+This project aims to create a gait event detection algorithm that does not require conventional methods such as motion capture or force plates and is applicable to a wide range of athletes and gait patterns. The algorithm combines elements of coordinate-based, velocity-based, and probabilistic approaches through a data-driven
 model. A time series model is created, using coordinate- and velocity-based features to predict
 the likelihood of an event in a series of frames. 
 
