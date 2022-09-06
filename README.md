@@ -1,4 +1,4 @@
-# Running Analysis Project
+# 2D Video Based Running Analysis 
 
 ## Overview
 
