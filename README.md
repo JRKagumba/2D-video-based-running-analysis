@@ -3,7 +3,7 @@
 ## Overview
 
 This project aims to create a gait event detection algorithm that does not require conventional methods such as motion capture or force plates and is applicable to a wide range of athletes and gait patterns. The algorithm combines elements of coordinate-based, velocity-based, and probabilistic approaches through a data-driven
-model. A time series model is created, using coordinate- and velocity-based features to predict
+model. A time series model is created, using coordinate and velocity-based features to predict
 the likelihood of an event in a series of frames. 
 
 
@@ -11,7 +11,7 @@ the likelihood of an event in a series of frames.
 
 Standard video is an inexpenive alternative to motion-capture for motion monitoring.  Current computational methods as well as large publicly available datasets enable pose estimation algorithms such as OpenPose, PoseNet and UniPose to produce estimates of body posture from standard video across varying lighting, activity, age, skin color, and angleof-view.  Pose estimation software outputs estimates of the two-dimensional (2D) image-plane positions of joints (e.g., ankles and knees) and other anatomical locations in each frame of a video. These estimates of 2D planar projections are too noisy and biased, due to manually annotated ground truth and planar projection errors, to be used directly for extracting clinically meaningful information such as three-dimensional (3D) gait metrics.
 
-To overcome these limitations, this project uses a few machine learning models to learn complex, and potentially nonlinear, relationships between inputs and outputs which have been shown to be an effective tool for making robust predictions. The method used capitalizes on 2D pose estimates from video to predict quantitative gait metrics commonly used in clinical gait analysis,
+The motivation for this project was to create an inexpensive solution to produce state-of-the-art biomechanical gait analysis. The dataset consits of videos shot at the same angle and the NFL provides each individual performers body metrics (i.e height, weight). Given this information, it is possible to produce a state-of-the-art gait analytics.  This project uses a few machine learning models to learn complex, and potentially nonlinear, relationships between inputs.  The method used capitalizes on 2D pose estimates from video to predict quantitative gait metrics commonly used in clinical gait analysis.
 
 ## Goals
 
