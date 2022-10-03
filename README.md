@@ -21,7 +21,7 @@ The motivation for this project was to create an inexpensive solution to produce
 
 ## Datasets
 
-The project used publicly available NFL combine videos of athletes performing the 40 yard dash. The datasets are available in their [raw](https://drive.google.com/drive/folders/15UjFBfslOEZuyPIMUAsSGkER2M6ijU5D?usp=sharing) and [processes](https://drive.google.com/drive/folders/1aMwJaAWk4UOqKriprPE-glR-ie6KSkDb?usp=sharing) formats. The dataset consits of 20 individuals from the following 6 different football positions :
+The project used publicly available NFL combine videos of athletes performing the 40 yard dash. The datasets are available in their [raw](https://drive.google.com/drive/folders/15UjFBfslOEZuyPIMUAsSGkER2M6ijU5D?usp=sharing) and [processes](https://drive.google.com/drive/folders/1aMwJaAWk4UOqKriprPE-glR-ie6KSkDb?usp=sharing) formats. Relevant player body metrics from the combine (i.e height, weight...) are also available used. The dataset consits of 20 individuals from the following 6 different football positions :
 
 - Defensive Backs
 - Defensive Linemen
